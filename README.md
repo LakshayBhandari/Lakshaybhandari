@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **lakshaybhandari867@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AChJVCl1QLUvJ3H1IzyYDAjaRGTZiYNp9xCndYg8IU4/edit](https://docs.google.com/document/d/1AChJVCl1QLUvJ3H1IzyYDAjaRGTZiYNp9xCndYg8IU4/edit)
+- 📄 resume [https://docs.google.com/document/d/1AChJVCl1QLUvJ3H1IzyYDAjaRGTZiYNp9xCndYg8IU4/edit](https://docs.google.com/document/d/1AChJVCl1QLUvJ3H1IzyYDAjaRGTZiYNp9xCndYg8IU4/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
