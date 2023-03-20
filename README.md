@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right alt="coding width="400" src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47ww2yyause0ni0dsp2vex5dadtj6wkx0dqj14tqmv&rid=giphy.gif&ct=s">
 
-- 👨‍💻 Portfolio [https://docs.google.com/document/d/1AChJVCl1QLUvJ3H1IzyYDAjaRGTZiYNp9xCndYg8IU4/edit](https://docs.google.com/document/d/1AChJVCl1QLUvJ3H1IzyYDAjaRGTZiYNp9xCndYg8IU4/edit)
+- 👨‍💻 Portfolio [[https://docs.google.com/document/d/1AChJVCl1QLUvJ3H1IzyYDAjaRGTZiYNp9xCndYg8IU4/edit](https://ptflio.vercel.app/)](https://docs.google.com/document/d/1AChJVCl1QLUvJ3H1IzyYDAjaRGTZiYNp9xCndYg8IU4/edit)
 
 - 📫 How to reach me **lakshaybhandari867@gmail.com**
 
